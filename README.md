@@ -36,7 +36,7 @@ pnpm run api
 Em outro terminal, execute:
 
 ```bash
-vp run
+vp dev
 ```
 
 Acesse no navegador:
