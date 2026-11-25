@@ -48,3 +48,10 @@ http://localhost:5173/
 GET /api/health
 
 Retorna o status da API e a data e hora atuais.
+## Estrutura do projeto
+
+- `src/`: arquivos da interface do usuário.
+- `server/`: servidor da API Express.
+- `server/index.js`: rota de verificação da API.
+- `.env.example`: exemplo de configuração de ambiente.
+- `vite.config.ts`: configuração do Vite e proxy da API.
